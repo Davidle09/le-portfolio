@@ -222,7 +222,7 @@ hr{
       transform: translate(-50%, -50%); /* Center the video */
       z-index: -1; /* Keeps video in the background */
       pointer-events: none; /* Prevents clicking on the video */
-	  opacity: 35%;
+	  opacity: 100%;
     }
 
  
@@ -285,7 +285,7 @@ hr{
     margin-right: auto;
     margin-bottom: auto;
     margin-left: auto;
-    width: 30vw;
+    width: 20vw;
     padding-top: 30px;
 }
 #profile-photo {
@@ -361,7 +361,7 @@ hr{
       }
 #projects-title {
     text-align: center;
-    color: #FFFFFF;
+    color: #E8E8E8;
     background-color: #546BB1;
 }
 
